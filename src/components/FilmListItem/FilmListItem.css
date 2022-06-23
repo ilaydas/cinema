@@ -1,0 +1,19 @@
+.film-list-item {
+  border-radius: 20px;
+  margin-right:  70px;
+  margin-top: 150px;
+  padding: 50px;
+  display: flex;
+  float: left;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+  border: 1px solid;
+}
+
+.film-list-item-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 800px;
+}

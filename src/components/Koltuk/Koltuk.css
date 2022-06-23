@@ -1,0 +1,15 @@
+.koltuk {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 35px;
+  width:70px;
+  height:70px;
+  user-select: none;
+  cursor: pointer;
+  background-color: rgb(6, 8, 85);
+  margin: 20px;
+  border: 3px rgb(32, 12, 67) solid;
+}
